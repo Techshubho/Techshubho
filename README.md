@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/media/fd41dabc5ba0135194498ab47adaed95.gif">
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently learning on **React Native**
 
 - 📫 How to reach me **suvamsarkar.com@gmail.com**
 
