@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Suvam Sarkar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/media/fd41dabc5ba0135194498ab47adaed95.gif>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/media/fd41dabc5ba0135194498ab47adaed95.gif">
 
 - 🔭 I’m currently working on **React Native**
 
