@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Suvam Sarkar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/media/fd41dabc5ba0135194498ab47adaed95.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI0YWM2MzZmNDliYmQwNzFlYWQ5YzQ3YmM5ZTkxMDcyZTM5ZmIwOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lP8xu5t2DLGG045H8F/giphy.gif">
 
 - 🔭 I’m currently learning on **React Native**
 
